@@ -1,4 +1,5 @@
-package br.com.ifpe.oxefood.util.entity;
+package br.com.ifpe.oxefood.until.entity;
+
 
 import java.time.LocalDate;
 
@@ -20,3 +21,4 @@ public abstract class EntidadeAuditavel extends EntidadeNegocio {
     private Long ultimaModificacaoPor; // Id do usuário que fez a última alteração
 
 }
+

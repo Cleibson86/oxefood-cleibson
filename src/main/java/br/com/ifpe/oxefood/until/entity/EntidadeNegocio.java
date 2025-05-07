@@ -1,4 +1,6 @@
-package br.com.ifpe.oxefood.util.entity;
+package br.com.ifpe.oxefood.until.entity;
+
+    
 
 import java.io.Serializable;
 
@@ -16,3 +18,4 @@ public abstract class EntidadeNegocio implements Serializable {
     private Boolean habilitado;
     
 }
+
